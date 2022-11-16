@@ -11,15 +11,16 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  background-color: 	#F5F5DC;
 }
 
 a {
-  color: #ffb727;
+  color: 	#8ca7f7;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffc85a;
+  color: #4169E1;
   text-decoration: none;
 }
 
@@ -42,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffb727;
+  background: #4169E1;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -112,7 +113,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 15px;
-  color: #fff;
+  color: PaleTurquoise;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 12px;
@@ -133,7 +134,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffb727;
+  color:#4169E1;
 }
 
 .navbar .dropdown ul {
@@ -172,7 +173,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffb727;
+  color: #4169E1;
 }
 
 .navbar .dropdown:hover>ul {
@@ -434,7 +435,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #3b434a;
+  color: #4169E1;
   position: relative;
   z-index: 2;
 }
@@ -442,7 +443,7 @@ section {
 .section-title span {
   position: absolute;
   top: 30px;
-  color: #eef0f2;
+  color: #E0FFFF;
   left: 0;
   right: 0;
   z-index: 1;
@@ -1151,7 +1152,7 @@ section {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #ffb727;
+  color:#4169E1;
   border-radius: 50%;
   padding: 15px;
   background: #fff6e4;
@@ -1271,7 +1272,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #ffb727;
+  background: #4169E1;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1354,7 +1355,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #ffb727;
+  background: #4169E1;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
