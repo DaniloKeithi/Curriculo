@@ -653,22 +653,22 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #ffb727;
+  background-color: #4169E1;
 }
 
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
 
-.resume .img-resume {
 
-}
+
 
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
+  padding-top: 20px;
   color: #3b434a;
 
 }
