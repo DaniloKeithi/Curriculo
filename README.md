@@ -1,3 +1,3 @@
 # Curriculo
 
-https://danilokeithi.github.io/Curriculo/
+https://danilokeithi.github.io./Curriculo/
